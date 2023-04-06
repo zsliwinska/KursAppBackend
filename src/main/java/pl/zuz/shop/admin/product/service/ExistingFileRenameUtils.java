@@ -1,4 +1,4 @@
-package pl.zuz.shop.admin.service;
+package pl.zuz.shop.admin.product.service;
 
 import org.apache.commons.io.FilenameUtils;
 
