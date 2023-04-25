@@ -2,6 +2,9 @@ package pl.zuz.shop.category.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
+import pl.zuz.shop.product.model.Product;
+
+import java.util.List;
 
 @Entity
 @Getter
